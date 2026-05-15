@@ -1,17 +1,9 @@
 # Jurídico Virtual Jus 9
 
-## Repertório
+Repertório: `juridico-virtual-jus9`
 
-`juridico-virtual-jus9`
+Status: novo
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria repertório para Constituição da Echo Charlie, leis internas, regimentos, requerimentos, sentenças internas, recursos simulados e Judiciário Virtual da Jus 9.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
